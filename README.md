@@ -1,4 +1,4 @@
-![alt text](https://github.com/ankit755/Netflix-Clone/blob/master/readmeImg.jpg?raw=true)
+![Web App Preview](https://github.com/ankit755/Netflix-Clone/blob/master/readmeImg.jpg?raw=true)
 
 # Getting Started with Create React App
 
